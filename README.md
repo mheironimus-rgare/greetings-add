@@ -4,4 +4,4 @@
 
 Repository for use with GitHub Actions Deep Dive training
 
-This branch requires signed-commits. A commit must be signed by the user in order to be allowed in the branch.
+This branch requires signed-commits. A commit must be signed by the user in order to be included in the branch.
